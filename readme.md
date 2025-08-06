@@ -52,7 +52,7 @@ bcomp -f "foo*.dat" -r "C:\FolderA" "C:\FolderB"
 
 Release can be found [here](https://github.com/CrystalFerrai/BComp/releases).
 
-You will need to have the Visual C++ x64 redistributable for Visual Studio 2022 installed on your system to run this program. You can find installed at Microsoft's website [here](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist). Look for the X64 download link.
+You will need to have the Visual C++ x64 redistributable for Visual Studio 2022 installed on your system to run this program. You can find the installer at Microsoft's website [here](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist). Look for the X64 download link.
 
 ## Building
 
