@@ -10,5 +10,9 @@
     <ClInclude Include="Comparer.h" />
     <ClInclude Include="Options.h" />
     <ClInclude Include="Utils.h" />
+    <ClInclude Include="resource.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="BComp.rc" />
   </ItemGroup>
 </Project>

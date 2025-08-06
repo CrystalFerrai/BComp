@@ -27,7 +27,11 @@
   <ItemGroup>
     <ClInclude Include="Comparer.h" />
     <ClInclude Include="Options.h" />
+    <ClInclude Include="resource.h" />
     <ClInclude Include="Utils.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="BComp.rc" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
