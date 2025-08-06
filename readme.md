@@ -52,6 +52,8 @@ bcomp -f "foo*.dat" -r "C:\FolderA" "C:\FolderB"
 
 Release can be found [here](https://github.com/CrystalFerrai/BComp/releases).
 
+You will need to have the Visual C++ x64 redistributable for Visual Studio 2022 installed on your system to run this program. You can find installed at Microsoft's website [here](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist). Look for the X64 download link.
+
 ## Building
 
 To build from source, just open the SLN file in Visual Studio 2022 and build it. For older versions of Visual Studio, you should be able to create a solution containing the library's single source file and build that.
